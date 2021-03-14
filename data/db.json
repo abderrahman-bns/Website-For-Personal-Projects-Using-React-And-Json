@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "title": "BAFRA",
+      "body": "La réalisation d'un module de reconnaissance faciale basé sur l'intelligence artificielle ",
+      "link": "https://github.com/xDEVELYNNx/BAFRA",
+      "id": 1
+    },
+    {
+      "title": "ManPower",
+      "body": "Projet de société intermédiaire ( offre - recrutement ) ",
+      "link": "https://github.com/xDEVELYNNx/ManPower",
+      "id": 2
+    },
+    {
+      "title": "Face-Detection",
+      "body": "Un programme de détection des visages à l'aide de ultra_light_640.onnx modèle ",
+      "link": "https://github.com/xDEVELYNNx/Face-Detection",
+      "id": 3
+    },
+    {
+      "title": "Face_Det_Reco",
+      "body": "Programme de reconnaissance faciale qui se base sur Haar_cascade model ",
+      "link": "https://github.com/xDEVELYNNx/Face_Det_Reco",
+      "id": 4
+    },
+    {
+      "title": "Ping_Pong",
+      "body": "jeux ping pong ",
+      "link": "https://github.com/xDEVELYNNx/Ping_Pong",
+      "id": 5
+    },
+    {
+      "title": "Face_Recognition_Gender_Classification",
+      "body": "Une application web de reconnaissance faciale et de classification selon le sexe (Homme-Femme) avec Python (Flask) ",
+      "link": "https://github.com/xDEVELYNNx/Face_Recognition_Gender_Classification",
+      "id": 6
+    },
+    {
+      "title": "xDEVELYNNx Projects",
+      "body": "un site web créer avec React contient tous mes projets ",
+      "link": "xxxxxxxxxxxxxxxxxxxxxx",
+      "id": 7
+    }
+  ]
+}
